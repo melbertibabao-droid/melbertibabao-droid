@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Melbert 👋
 
-<!--
-**melbertibabao-droid/melbertibabao-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ About Me
+* 💼 **Background:** 8 years of professional experience at Accenture, with extensive domain knowledge in content moderation.
+* 🎯 **Career Focus:** Transitioning into cybersecurity with the goal of becoming a **GRC Analyst** (Governance, Risk, and Compliance).
+* 💡 **Mindset:** Highly adaptable, self-driven learner committed to continuous upskilling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Learning & Roadmap
+* 📖 **Currently Studying:** NIST Cybersecurity Framework (CSF) 2.0
+* 🎯 **Next Up:** ISO/IEC 27001 Information Security Management Standard
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melbertibabao/)
